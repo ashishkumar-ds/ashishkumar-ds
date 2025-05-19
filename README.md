@@ -1,4 +1,4 @@
-**Data Analyst | Data Scientist | Business Intelligence | Consumer Insights**
+**Data Scientist | Business Intelligence | Consumer Insights**
 
 Data-driven professional with retail & e-commerce expertise, turning complex data into actionable growth strategies. Passionate about leveraging analytics, machine learning, and customer insights to optimize experiences, boost sales, and drive smarter decisions.
 
@@ -9,15 +9,12 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 - **Portfolio:** [View my work and case studies](https://datascienceportfol.io/cingul)
 - **Contact:** [christianingul@gmail.com](mailto:christianingul@gmail.com)
-- **Current Project:** Developing a GenAI powered EdTech platform (more to come)
-- **Ongoing Learning:** Applied Probability & Statistics, Linear Algebra
-- **Collaboration Interests:** Automation, GenAI, and Business Optimization Projects
 
 ---
 
 ### Core Competencies
 
-- **Data Analysis & Visualization:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning & AI:** TensorFlow, Scikit-Learn, Model Deployment, Feature Engineering  
-- **Database Management:** PostgreSQL, Data Warehousing  
-- **Business Analytics & Strategy:** Forecasting, Market Research, Performance Metrics, Financial Analysis 
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Tableau, Looker Studio
+- **Machine Learning & AI:** Scikit-learn, NLP (TextBlob), RFM modeling, churn prediction, campaign ROI analysis
+- **Database Management:** PostgreSQL, Data Warehousing
+- **Retail & E-Commerce Expertise:** Customer segmentation, funnel optimization, market basket analysis, sentiment analysis
