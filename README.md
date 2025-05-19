@@ -1,6 +1,11 @@
-**Data Scientist | Business Analytics Specialist | Deep Learning Enthusiast**
+**Data Analyst | Data Scientist | Business Intelligence | Consumer Insights**
 
-USC M.S. in Business Analytics graduate with a strong foundation in data science, strategic analysis, and performance optimization. With experience in collegiate sports, data science and consulting, I blend advanced analytics with business strategy to drive data-informed decision-making, improve operational efficiency, and generate long-term value.
+Data-driven professional with retail & e-commerce expertise, turning complex data into actionable growth strategies. Passionate about leveraging analytics, machine learning, and customer insights to optimize experiences, boost sales, and drive smarter decisions.
+
+**Proven Impact:**
+→ 25% reduction in customer churn
+→ 486% campaign ROI improvement
+→ Identified 12% of stores driving 80% of revenue
 
 - **Portfolio:** [View my work and case studies](https://datascienceportfol.io/cingul)
 - **Contact:** [christianingul@gmail.com](mailto:christianingul@gmail.com)
