@@ -3,9 +3,9 @@
 Data-driven professional with retail & e-commerce expertise, turning complex data into actionable growth strategies. Passionate about leveraging analytics, machine learning, and customer insights to optimize experiences, boost sales, and drive smarter decisions.
 
 **Proven Impact:**
-- 25% reduction in customer churn
-- 486% campaign ROI improvement
-- Identified 12% of stores driving 80% of revenue
+- Reduced customer churn by 25%
+- Improved campaign ROI by 486% 
+- Identified that 12% of stores drive 80% of total revenue
 
 - **Portfolio:** [View my work and case studies](https://datascienceportfol.io/cingul)
 - **Contact:** [christianingul@gmail.com](mailto:christianingul@gmail.com)
@@ -14,7 +14,7 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 ### Core Competencies
 
-- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Tableau, Looker Studio
-- **Machine Learning:** Scikit-learn, NLP (TextBlob), RFM modeling, churn prediction, campaign ROI analysis
-- **Database Management:** PostgreSQL, Data Warehousing
-- **Retail & E-Commerce Expertise:** Customer segmentation, funnel optimization, market basket analysis, sentiment analysis
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, PySpark, Tableau, Looker Studio
+- **Machine Learning & Business Modeling:** Scikit-learn, RFM segmentation, churn prediction, campaign ROI analysis, association rules
+- **Database Management:** Google BigQuery, PostgreSQL, MySQL
+- **Domain Expertise:** Customer segmentation, funnel optimization, market basket analysis, sentiment analysis, KPI dashboards
