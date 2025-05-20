@@ -25,7 +25,8 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 <a href="https://github.com/daianeklein/Driving Retail Store Performance Through Customer Analytics"> Driving Retail Store Performance Through Customer Analytics </a>
 
-Descrption:
-Analyzed performance of 583 stores to identify underperformers and root causes using customer segmentation, campaign effectiveness, and product assortment insights. Built a Tableau dashboard to empower regional managers with actionable metrics.
+Project Brief
+Analyzed 2.5M retail transactions to uncover why 96% of stores underperformed and how targeted campaigns can drive sales growth.
 
 **Tools: Python, Tableau**
+
