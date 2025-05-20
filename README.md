@@ -18,3 +18,12 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 - **Machine Learning & Business Modeling:** Scikit-learn, RFM segmentation, churn prediction, campaign ROI analysis, association rules
 - **Database Management:** Google BigQuery, PostgreSQL, MySQL
 - **Domain Expertise:** Customer segmentation, funnel optimization, market basket analysis, sentiment analysis, KPI dashboards
+
+---
+
+### Projects
+
+Project Description: Data Imersion was a data analysis competition organized by <a href=https://www.alura.com.br> Alura </a> with thousands Data Science students.
+
+The objetive of this project was analyze public education data. My analysis aim was evalute how social situation is correlated to students performance.
+ My project was chosen as winner by  <a href=https://pt.wikipedia.org/wiki/Atila_Iamarino> Atila Iamarino </a> , brazilian biologist researcher
