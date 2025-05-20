@@ -27,7 +27,5 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 Descrption:
 Analyzed performance of 583 stores to identify underperformers and root causes using customer segmentation, campaign effectiveness, and product assortment insights. Built a Tableau dashboard to empower regional managers with actionable metrics.
-**Tools: Python, Tableau**
 
-The objetive of this project was analyze public education data. My analysis aim was evalute how social situation is correlated to students performance.
- My project was chosen as winner by  <a href=https://pt.wikipedia.org/wiki/Atila_Iamarino> Atila Iamarino </a> , brazilian biologist researcher
+**Tools: Python, Tableau**
