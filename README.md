@@ -23,6 +23,8 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 ### Projects
 
+<a href="https://github.com/daianeklein/imersao-dados-Alura">Data Analysis of Brazilian Education 🏅 🏆 </a>
+
 Project Description: Data Imersion was a data analysis competition organized by <a href=https://www.alura.com.br> Alura </a> with thousands Data Science students.
 
 The objetive of this project was analyze public education data. My analysis aim was evalute how social situation is correlated to students performance.
