@@ -23,9 +23,11 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 ### Projects
 
-<a href="https://github.com/daianeklein/imersao-dados-Alura">Data Analysis of Brazilian Education 🏅 🏆 </a>
+<a href="https://github.com/daianeklein/Driving Retail Store Performance Through Customer Analytics"> Driving Retail Store Performance Through Customer Analytics </a>
 
-Project Description: Data Imersion was a data analysis competition organized by <a href=https://www.alura.com.br> Alura </a> with thousands Data Science students.
+Descrption:
+Analyzed performance of 583 stores to identify underperformers and root causes using customer segmentation, campaign effectiveness, and product assortment insights. Built a Tableau dashboard to empower regional managers with actionable metrics.
+**Tools: Python, Tableau**
 
 The objetive of this project was analyze public education data. My analysis aim was evalute how social situation is correlated to students performance.
  My project was chosen as winner by  <a href=https://pt.wikipedia.org/wiki/Atila_Iamarino> Atila Iamarino </a> , brazilian biologist researcher
