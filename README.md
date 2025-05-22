@@ -26,7 +26,8 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 <a href="https://github.com/daianeklein/Driving Retail Store Performance Through Customer Analytics"> Driving Retail Store Performance Through Customer Analytics </a>
 
 Project Brief
-Analyzed 2.5M retail transactions to uncover why 96% of stores underperformed and how targeted campaigns can drive sales growth.
+
+This project explores store-level transaction data from Dunnhumby, a global customer data science company. By identifying underperforming stores and analyzing customer behavior, the analysis reveals data-driven strategies to increase sales. Through RFM-based segmentation, campaign effectiveness analysis, and time-based targeting, the project recommends using Campaign 18 to reach the Best Customer segment during high-engagement time slots, with the goal of boosting revenue in underperforming stores.
 
 **Tools: Python, Tableau**
 
