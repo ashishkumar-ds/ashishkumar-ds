@@ -27,7 +27,7 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 Project Brief
 
-This project explores store-level transaction data from Dunnhumby, a global customer data science company. By identifying underperforming stores and analyzing customer behavior, the analysis reveals data-driven strategies to increase sales. Through RFM-based segmentation, campaign effectiveness analysis, and time-based targeting, the project recommends using Campaign 18 to reach the Best Customer segment during high-engagement time slots, with the goal of boosting revenue in underperforming stores.
+Analyzed 2.5M+ retail transactions from Dunnhumby to identify underperforming stores and uncover sales uplift opportunities. Applied RFM segmentation to target high-value customers and evaluated 30 campaigns for ROI. Recommended Campaign 18, timed strategically in the afternoon, to boost daily sales by 0.19% across low-performing stores.
 
 **Tools: Python, Tableau**
 
