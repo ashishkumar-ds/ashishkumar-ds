@@ -23,7 +23,7 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 ### Projects
 
-<a href="dunnhumby-retail-performance-analysis"> Driving Retail Store Performance Through Customer Analytics </a>
+<a href="https://github.com/ashishkumar-ds/data-science-projects/tree/6432c503507b31158d642d89b9b5a6d09c58b0e5/dunnhumby-retail-performance-analysis"> Driving Retail Store Performance Through Customer Analytics </a>
 
 Analyzed 2.5M+ retail transactions from Dunnhumby to identify underperforming stores and uncover sales uplift opportunities. Applied RFM segmentation to target high-value customers and evaluated 30 campaigns for ROI. Recommended Campaign 18, timed strategically in the afternoon, to boost daily sales by 0.19% across low-performing stores.
 
