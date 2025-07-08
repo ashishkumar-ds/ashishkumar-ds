@@ -24,7 +24,7 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 ### Projects
 
-<a href="https://github.com/ashishkumar-ds/data-science-projects/tree/6432c503507b31158d642d89b9b5a6d09c58b0e5/dunnhumby-retail-performance-analysis">Dunnhumby Retail Performance Analysis</a>
+<a href="https://github.com/ashishkumar-ds/data-science-projects/tree/6432c503507b31158d642d89b9b5a6d09c58b0e5/dunnhumby-retail-performance-analysis">Dunnhumby Retail Store Performance Analysis</a>
 
 This project analyzes over 2.5 million household-level transactions from Dunnhumby to uncover data-driven strategies that improve sales in underperforming retail stores. By combining customer segmentation (RFM analysis), campaign effectiveness evaluation, and time-based engagement insights, the analysis identifies actionable recommendations to target the right customers with the right campaigns at the right time.
 
