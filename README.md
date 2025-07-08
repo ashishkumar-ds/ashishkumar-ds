@@ -29,3 +29,8 @@ This project analyzes over 2.5 million household-level transactions from Dunnhum
 
 **Tools: Python, Tableau**
 
+<a href="">Etsy Funnel Analysis</a>
+
+This project analyzes Etsy’s e-commerce funnel to uncover critical bottlenecks in the customer journey and reduce the company’s exceptionally high 90% cart abandonment rate. By examining user behavior across each step of the funnel from browsing to purchase, the analysis identifies key drop-off points and provides data-driven recommendations to increase conversion rates by 5% in Q1 2023. 
+
+**Tools: SQL, Tableau**
