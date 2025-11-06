@@ -1,4 +1,4 @@
-**Data Scientist | Business Intelligence | Consumer Insights**
+**Data Analyst | Data Scientist | Consumer Insights**
 
 Data-driven professional with retail & e-commerce expertise, turning complex data into actionable growth strategies. Passionate about leveraging analytics, machine learning, and customer insights to optimize experiences, boost sales, and drive smarter decisions.
 
