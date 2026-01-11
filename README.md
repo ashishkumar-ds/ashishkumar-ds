@@ -1,14 +1,13 @@
-**Data Analyst | Data Scientist | Consumer Insights**
+# Hi, I'm Ashish
 
-Data-driven professional with retail & e-commerce expertise, turning complex data into actionable growth strategies. Passionate about leveraging analytics, machine learning, and customer insights to optimize experiences, boost sales, and drive smarter decisions.
+**Data Scientist & Analyst | Retail & E-Commerce**
 
-**Proven Impact:**
-- Reduced customer churn by 25%
-- Improved campaign ROI by 486% 
-- Identified that 12% of stores drive 80% of total revenue
+I build ML-driven solutions that uncover why customers behave the way they do and turn those insights into scalable growth.
 
-- **Portfolio:** [View my work and case studies](https://datascienceportfol.io/cingul)
-- **Contact:** [christianingul@gmail.com](mailto:christianingul@gmail.com)
+
+- **Portfolio:** [View my work and case studies]()
+
+- **Contact:** [ashishworkds@gmail.com](mailto:ashishworkds@gmail.com)
 
 ---
 
@@ -26,12 +25,12 @@ Data-driven professional with retail & e-commerce expertise, turning complex dat
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/6432c503507b31158d642d89b9b5a6d09c58b0e5/dunnhumby-retail-performance-analysis">Dunnhumby Retail Store Performance Analysis</a>
 
-This project analyzes over 2.5 million household-level transactions from Dunnhumby to uncover data-driven strategies that improve sales in underperforming retail stores. By combining customer segmentation (RFM analysis), campaign effectiveness evaluation, and time-based engagement insights, the analysis identifies actionable recommendations to target the right customers with the right campaigns at the right time.
+Analyzed 2.5M+ household transactions to uncover strategies for improving sales in underperforming retail stores. Using RFM segmentation and campaign timing analysis, identified high-potential customer segments and optimal engagement windows projected to drive 11% sales uplift and $15K incremental revenue in pilot stores within 60 days.
 
 **Tools: Python, Tableau**
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/etsy-funnel-conversion-analysis">Etsy Funnel Conversion Analysis</a>
 
-This project analyzes Etsy’s e-commerce funnel to uncover critical bottlenecks in the customer journey and reduce the company’s exceptionally high 90% cart abandonment rate. By examining user behavior across each step of the funnel from browsing to purchase, the analysis identifies key drop-off points and provides data-driven recommendations to increase conversion rates by 5% in Q1 2023. 
+Diagnosed the root causes of ~90% cart abandonment across Etsy’s e-commerce funnel by mapping user drop-off points from product view to purchase, then prioritized actionable fixes projected to increase conversion rates by 5% in Q1 2023
 
 **Tools: SQL (Google BigQuery), Tableau**
