@@ -14,7 +14,7 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 ### Core Competencies
 
 
-- **Data Analysis & Visualization:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, PySpark, Tableau, Looker Studio
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, Tableau, Looker Studio
 - **Machine Learning & Business Modeling:** Scikit-learn, RFM segmentation, churn prediction, campaign ROI analysis, association rules
 - **Database Management:** Google BigQuery, PostgreSQL, MySQL
 - **Domain Expertise:** Customer segmentation, funnel optimization, market basket analysis, sentiment analysis, KPI dashboards
