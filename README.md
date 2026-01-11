@@ -5,9 +5,9 @@
 I build ML-driven solutions that uncover why customers behave the way they do and turn those insights into scalable growth.
 
 
-- **Portfolio:** [View my work and case studies](https://ashishkumarportfolio.super.site/)
+- **Portfolio:** [View my work here](https://ashishkumarportfolio.super.site/)
 
-- **Contact:** [ashishworkds@gmail.com](mailto:ashishworkds@gmail.com)
+- **Contact:** [ashish.workds@gmail.com](mailto:ashish.workds@gmail.com)
 
 ---
 
