@@ -37,6 +37,8 @@ Diagnosed the root causes of ~90% cart abandonment across Etsy’s e-commerce fu
 
 **Tools: SQL (Google BigQuery), Tableau**
 
+---
+
 
 ### **Learning & Practice**
 
