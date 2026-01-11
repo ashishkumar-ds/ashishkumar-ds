@@ -6,10 +6,9 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 
 
 - **Portfolio:**
-[ashishkumarportfolio.super.site](https://ashishkumarportfolio.super.site/)
+[ashishkumarportfolio](https://ashishkumarportfolio.super.site/)
 
 - **Contact:** 
-
 [ashish.workds@gmail.com](mailto:ashish.workds@gmail.com)
 
 ---
