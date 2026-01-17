@@ -27,7 +27,7 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/dunnhumby-retail-performance-analysis">Dunnhumby Retail Store Performance Analysis</a>
 
-Analyzed **2.5M+ household transactions** to uncover strategies for improving sales in underperforming retail stores. Using RFM segmentation and campaign timing analysis, identified high-potential customer segments and optimal engagement windows projected to drive **11% sales uplift** and **$15K incremental revenue** in pilot stores within 60 days.
+Analyzed **2.5M+ household transactions** to uncover strategies for improving sales in underperforming retail stores. Using RFM segmentation and campaign timing analysis, identified high-potential customer segments and optimal engagement windows projected to drive **11% sales uplift** and **$15K incremental revenue** in eligible underperforming stores within 60 days.
 
 **Tools: Python, Tableau**
 
