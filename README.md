@@ -27,13 +27,13 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/dunnhumby-retail-performance-analysis">Dunnhumby Retail Store Performance Analysis</a>
 
-Analyzed 2.5M+ household transactions to uncover strategies for improving sales in underperforming retail stores. Using RFM segmentation and campaign timing analysis, identified high-potential customer segments and optimal engagement windows projected to drive **11% sales uplift** and **$15K incremental revenue** in pilot stores within 60 days.
+Analyzed **2.5M+ household transactions** to uncover strategies for improving sales in underperforming retail stores. Using RFM segmentation and campaign timing analysis, identified high-potential customer segments and optimal engagement windows projected to drive **11% sales uplift** and **$15K incremental revenue** in pilot stores within 60 days.
 
 **Tools: Python, Tableau**
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/etsy-funnel-conversion-analysis">Etsy Funnel Conversion Analysis</a>
 
-Analyzed 385K+ event-level user interactions and 19K+ transactions to diagnose root causes of 90% cart abandonment at Etsy. Using funnel drop-off diagnostics and payment method performance analysis, identified high-friction checkout steps and prioritized UX optimizations that drove a **+5.2% conversion lift** and **$4.5K incremental GMV** in Q1 2023.
+Analyzed **385K+ event-level user interactions** and 19K+ transactions to diagnose root causes of 90% cart abandonment at Etsy. Using funnel drop-off diagnostics and payment method performance analysis, identified high-friction checkout steps and prioritized UX optimizations that drove a **+5.2% conversion lift** and **$4.5K incremental GMV** in Q1 2023.
 
 **Tools: SQL (Google BigQuery), Tableau**
 
