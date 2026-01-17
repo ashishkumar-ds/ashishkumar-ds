@@ -33,7 +33,7 @@ Analyzed **2.5M+ household transactions** to uncover strategies for improving sa
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/etsy-funnel-conversion-analysis">Etsy Funnel Conversion Analysis</a>
 
-Analyzed **385K+ event-level user interactions** and 19K+ transactions to diagnose root causes of 90% cart abandonment at Etsy. Using funnel drop-off diagnostics and payment method performance analysis, identified high-friction checkout steps and prioritized UX optimizations that drove a **+5.2% conversion lift** and **$4.5K incremental GMV** in Q1 2023.
+Analyzed **385K+ event-level user interactions** and 19K+ transactions to diagnose root causes of 90% cart abandonment at Etsy. Using funnel drop-off diagnostics and payment method performance analysis, identified high-friction checkout steps and prioritized UX optimizations that drove a **+5.2 pp conversion lift** and **$4.5K incremental GMV** in Q1 2023.
 
 **Tools: SQL (Google BigQuery), Tableau**
 
