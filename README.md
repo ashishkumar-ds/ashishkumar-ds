@@ -15,11 +15,11 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 
 ### Core Competencies
 
-
-- **Data Analysis & Visualization:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, Tableau, Looker Studio
-- **Machine Learning & Business Modeling:** Scikit-learn, RFM segmentation, churn prediction, campaign ROI analysis, association rules
-- **Database Management:** Google BigQuery, PostgreSQL, MySQL
-- **Domain Expertise:** Customer segmentation, funnel optimization, market basket analysis, sentiment analysis, KPI dashboards
+- **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, Tableau, Looker Studio  
+- **Machine Learning & Statistical Methods**: RFM Segmentation, Churn Risk Analysis, Association Rule Mining (FP-Growth), Campaign ROI/Uplift Analysis, Time-Series Forecasting (LightGBM + Optuna)  
+- **AI & GenAI Development**: Generative AI (Google Gemini, ChatGPT), Prompt Engineering, NLP (TextBlob, NLTK), Sentiment Scoring, Thematic Summarization  
+- **Database & Cloud Platforms**: Google BigQuery, PostgreSQL, MySQL  
+- **Domain Expertise**: Customer Segmentation, Market Basket Analysis, Funnel Diagnostics, KPI Dashboards
 
 ---
 
