@@ -48,4 +48,4 @@ Analyzed **385K+ event-level user interactions** and 19K+ transactions to diagno
 ---
 
 ### Currently Inspiring Me
-- [_“A Person Who Never Gives Up”_](https://brunch.co.kr/@buildingking/47)— On building value through relentless iteration.
+- [_“A Person Who Never Gives Up”_](https://brunch.co.kr/@buildingking/47) — On building value through relentless iteration.
