@@ -42,5 +42,10 @@ Analyzed **385K+ event-level user interactions** and 19K+ transactions to diagno
 
 ### **Learning & Practice**
 
-- [30 Days of Pandas](https://www.notion.so/Pandas-Interview-Questions-Solved-by-Ashish-Kumar-19b3c6758c0f801db3c9d1fc4d83db1a?source=copy_link) — Daily practice to maintain fluency in scalable data transformation  
-- [30 Days of SQL](https://www.notion.so/SQL-Interview-Questions-Solved-by-Ashish-Kumar-1293c6758c0f80bcb941f7b8c98a9a88?source=copy_link) — Precision querying for complex business logic and performance optimization
+- [30 Days of Pandas](https://www.notion.so/Pandas-Interview-Questions-Solved-by-Ashish-Kumar-19b3c6758c0f801db3c9d1fc4d83db1a?source=copy_link) — Daily practice to maintain fluency in scalable data transformation.  
+- [30 Days of SQL](https://www.notion.so/SQL-Interview-Questions-Solved-by-Ashish-Kumar-1293c6758c0f80bcb941f7b8c98a9a88?source=copy_link) — Precision querying for complex business logic and performance optimization.
+
+---
+
+### Currently Inspiring Me
+- _“A Person Who Never Gives Up”_ — On building value through relentless iteration.
