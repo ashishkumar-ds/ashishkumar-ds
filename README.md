@@ -19,7 +19,7 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 - **Machine Learning & Business Modeling**: RFM Segmentation, KMeans Clustering, Customer Retention Modeling, Cohort Analysis, Association Rules (FP-Growth), Campaign ROI & Uplift Analysis, A/B Testing (Metric Design), Hypothesis Testing (T-test, Chi-square), Time-Series Forecasting (LightGBM + Optuna)  
 - **AI & GenAI Development**: Generative AI (Google Gemini, ChatGPT, Claude), Prompt Engineering, NLP (TextBlob, NLTK), Sentiment Analysis  
 - **Database & Cloud Platforms**: Google BigQuery, PostgreSQL, MySQL  
-- **Domain Expertise**: Customer Segmentation, Market Basket Analysis, Funnel Diagnostics, KPI Dashboards 
+- **Domain Expertise**: Customer Segmentation, Market Basket Analysis, Funnel Diagnostics, KPI Dashboards Design 
 
 ---
 
