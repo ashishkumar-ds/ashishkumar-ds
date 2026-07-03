@@ -18,8 +18,8 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 - **Data Analysis & Visualization**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), SQL, Tableau, Looker Studio  
 - **Machine Learning & Business Modeling**: RFM Segmentation, KMeans Clustering, Customer Retention Modeling, Cohort Analysis, Association Rules (FP-Growth), Campaign ROI & Uplift Analysis, A/B Testing (Metric Design), Hypothesis Testing (T-test, Chi-square), Time-Series Forecasting (LightGBM + Optuna)  
 - **AI & GenAI Development**: Generative AI (Google Gemini, ChatGPT, Claude), Prompt Engineering, NLP (TextBlob, NLTK), Sentiment Analysis
-- **Workflow Automation & API Integration**: AI Workflow Automation, API Integration, Event-Driven Workflows
-- **Database & Cloud Platforms**: Google BigQuery, PostgreSQL, MySQL  
+- **Workflow Automation & API Development**: FastAPI, n8n, AI Workflow Automation, Event-Driven Workflows
+- **Database & Cloud Platforms**: Google BigQuery, PostgreSQL, MySQL, Render 
 - **Domain Expertise**: Customer Segmentation, Market Basket Analysis, Funnel Diagnostics, KPI Dashboards Design 
 
 ---
