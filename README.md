@@ -32,10 +32,10 @@ Analyzed **2.5M+ household transactions** to uncover strategies for improving sa
 
 **Tools: Python, Tableau**
 
-<a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/dunnhumby-retail-performance-analysis">Part — 2 Retail Campaign Automation with n8n</a>
+<a href="https://github.com/ashishkumar-ds/retail-campaign-automation-with-n8n">Part — 2 Dunnhumby Retail Campaign Automation with n8n</a>
 
-Built an end-to-end campaign automation system to deploy a proven 
-retail growth strategy across 85 underperforming stores. Automated 
+Built an **end-to-end campaign automation system** to deploy a proven 
+retail growth strategy across **85 underperforming stores**. Automated 
 store eligibility scoring, customer targeting, and campaign delivery 
 using a FastAPI backend, n8n workflow orchestration, and Brevo — 
 replacing manual per-store execution with a single scheduled trigger.
