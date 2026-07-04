@@ -34,11 +34,11 @@ Analyzed **2.5M+ household transactions** to uncover strategies for improving sa
 
 <a href="https://github.com/ashishkumar-ds/retail-campaign-automation-with-n8n">Part-2 Dunnhumby Retail Campaign Automation with n8n</a>
 
-Built an **end-to-end campaign automation system** to deploy a proven 
-retail growth strategy across **85 underperforming stores**. Automated 
-store eligibility scoring, customer targeting, and campaign delivery 
-using a FastAPI backend, n8n workflow orchestration, and Brevo — 
-replacing manual per-store execution with a single scheduled trigger.
+Built an end-to-end campaign automation system to deploy **Campaign 18** 
+across **85 underperforming stores**, replacing manual per-store execution 
+with a single scheduled trigger. Automated store eligibility scoring, 
+customer targeting, and campaign delivery using **FastAPI**, **n8n**, and **Brevo**. 
+Built on validated pilot results: **+11% sales uplift** and **278.7% Net ROI**.
 
 **Tools: Python, FastAPI, n8n, Brevo, Render**
 
