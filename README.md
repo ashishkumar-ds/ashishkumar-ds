@@ -38,7 +38,8 @@ Built an end-to-end campaign automation system to deploy **Campaign 18**
 across **85 underperforming stores**, replacing manual per-store execution 
 with a single scheduled trigger. Automated store eligibility scoring, 
 customer targeting, and campaign delivery using **FastAPI**, **n8n**, and **Brevo**. 
-Built on validated pilot results: **+11% sales uplift** and **278.7% Net ROI**.
+
+Note: Built on validated pilot results: **+11% sales uplift** and **278.7% Net ROI**.
 
 **Tools: Python, FastAPI, n8n, Brevo, Render**
 
