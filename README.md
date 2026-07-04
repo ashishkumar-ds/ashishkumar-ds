@@ -28,18 +28,22 @@ I build ML-driven solutions that uncover why customers behave the way they do an
 
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/dunnhumby-retail-performance-analysis">Part-1 Dunnhumby Retail Store Performance Analysis</a>
 
-Analyzed **2.5M+ household transactions** to uncover strategies for improving sales in underperforming retail stores. Using RFM segmentation and campaign timing analysis, identified high-potential customer segments and optimal engagement windows projected to drive **11% sales uplift** and **$15K incremental revenue** in eligible underperforming stores within 60 days.
+Analyzed **2.5M+ household transactions** across 582 stores to diagnose why 
+88% of stores generated only 20% of revenue. Used RFM segmentation to 
+identify Best Customers and evaluated 30 campaigns to select **Campaign 18** 
+as the top performer, projected to deliver **11% sales uplift** and **$15K 
+incremental revenue** across eligible underperforming stores.
 
 **Tools: Python, Tableau**
 
 <a href="https://github.com/ashishkumar-ds/retail-campaign-automation-with-n8n">Part-2 Dunnhumby Retail Campaign Automation with n8n</a>
 
-Operationalized findings from Part 1 by building an end-to-end **campaign 
-automation system** to deploy **Campaign 18** across **85 underperforming stores**. 
-Automated store eligibility scoring, customer targeting, and campaign delivery 
-scaling a campaign that delivered **+10.8% sales uplift** and **278.7% net ROI**.
+Operationalized Part 1 findings by building a **campaign automation system** to 
+deploy **Campaign 18** across 85 underperforming stores, replacing manual 
+per-store execution with a single scheduled trigger. Automated store eligibility 
+scoring, customer targeting, and phased rollout governance scaling a campaign 
+that delivered **+10.8% sales uplift** and **278.7% net ROI**.
 
-Tools: Python, FastAPI, n8n, Brevo, Render
 
 **Tools: Python, FastAPI, n8n, Brevo, Render**
 
