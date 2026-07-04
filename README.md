@@ -38,12 +38,11 @@ incremental revenue** across eligible underperforming stores.
 
 <a href="https://github.com/ashishkumar-ds/retail-campaign-automation-with-n8n">Part-2 Dunnhumby Retail Campaign Automation with n8n</a>
 
-Operationalized Part 1 findings by building a **campaign automation system** to 
-deploy **Campaign 18** across 85 underperforming stores, replacing manual 
-per-store execution with a single scheduled trigger. Automated store eligibility 
-scoring, customer targeting, and phased rollout governance scaling a campaign 
-that delivered **+10.8% sales uplift** and **278.7% net ROI**.
-
+Built an end-to-end campaign automation system to deploy **Campaign 18** 
+across 85 underperforming stores, replacing manual per-store execution with 
+a single scheduled trigger. Automated store eligibility scoring, customer 
+targeting, and phased rollout governance scaling a campaign that delivered 
+**+10.8% sales uplift** and **278.7% net ROI**.
 
 **Tools: Python, FastAPI, n8n, Brevo, Render**
 
