@@ -48,7 +48,7 @@ targeting, and phased rollout governance scaling a campaign that delivered
 
 <a href="https://github.com/ashishkumar-ds/retail-decision-intelligence-agent">Part-3 Dunnhumby Retail Decision Intelligence Agent</a>
 
-Built a decision agent that picks the next action for underperforming stores across plan, execute, measure, and re-decide. Recommendations come from deterministic code with causal checks before anything scales, and a person approves every budget move. Tested against 22 fixed business scenarios that run on every change, with a live stakeholder board.
+Built a decision agent that picks the next action for underperforming stores across plan, execute, measure, and re-decide. Recommendations come from **deterministic code** with **causal checks** before anything scales, and a person approves every budget move. Tested against **22 fixed business scenarios** that run on every change, with a **live stakeholder board**.
 
 **Tools: Python, FastAPI, Next.js, Render, Supabase**
 
