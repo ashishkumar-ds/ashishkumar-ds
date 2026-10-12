@@ -46,6 +46,12 @@ targeting, and phased rollout governance scaling a campaign that delivered
 
 **Tools: Python, FastAPI, n8n, Brevo, Render**
 
+<a href="https://github.com/ashishkumar-ds/retail-decision-intelligence-agent">Part-3 Dunnhumby Retail Decision Intelligence Agent</a>
+
+Built a decision agent that picks the next action for underperforming stores across plan, execute, measure, and re-decide. Recommendations come from deterministic code with causal checks before anything scales, and a person approves every budget move. Tested against 22 fixed business scenarios that run on every change, with a live stakeholder board.
+
+**Tools: Python, FastAPI, Next.js, Render, Supabase**
+
 <a href="https://github.com/ashishkumar-ds/data-science-projects/tree/main/etsy-funnel-conversion-analysis">Etsy Funnel Conversion Analysis</a>
 
 Analyzed **385K+ event-level user interactions** and 19K+ transactions to diagnose root causes of 90% cart abandonment at Etsy. Using funnel drop-off diagnostics and payment method performance analysis, identified high-friction checkout steps and prioritized UX optimizations that drove a **+5.2 pp conversion lift** and **$4.5K incremental GMV** in Q1 2023.
